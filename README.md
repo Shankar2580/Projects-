@@ -46,4 +46,6 @@ How It Works*
 
 ### **Screenshots**
 ![image](https://github.com/user-attachments/assets/008fdf4f-5c1d-4092-be16-9d2409ba1873)
+![image](https://github.com/user-attachments/assets/e81a3020-1084-49b5-83cd-13900bdaece2)
+
 
